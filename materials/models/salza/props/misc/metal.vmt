@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/salza/props/misc/metal"
+	"$bumpmap" "models/salza/props/misc/metal_normal"
+	"$halflambert" 1
+}
