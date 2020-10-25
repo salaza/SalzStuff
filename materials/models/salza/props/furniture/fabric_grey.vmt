@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/salza/props/furniture/fabric_grey"
+	"$halflambert" 1
+}
