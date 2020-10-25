@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/salza/props/furniture/fabric_cushion2"
+	"$bumpmap" "models/salza/props/furniture/fabric_normal"
+	"$halflambert" 1
+}
